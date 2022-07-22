@@ -1,0 +1,11 @@
+2-
+1) Bu siteye gidin. -> https://demo.applitools.com/
+
+2) Username kısmına "ttechno@gmail.com" girin. [class='form-control']
+
+3) Password kısmına "techno123." girin. [type='password']
+
+4) "Sign in" buttonunan tıklayınız. [href='/app.html']
+
+5) "Your nearest branch closes in: 30m 5s" yazısının göründüğünü doğrulayınız. [style='text-align: center;font-size: x-large;color:red']
+

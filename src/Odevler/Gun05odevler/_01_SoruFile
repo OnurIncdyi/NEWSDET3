@@ -1,0 +1,19 @@
+/*
+
+    1) Bu siteye gidin. ->  http://demoqa.com/text-box
+
+    2) Full Name kısmına "Automation" girin. [type='text'][id="userName"]
+
+    3) Email kısmına "Testing@gmail.com" girin.  [type='email'][placeholder='name@example.com']
+
+    4) Current Address kısmına "Testing Current Address" girin. [class='form-control'][id='currentAddress']
+
+    5) Permanent Address kısmına "Testing Permanent Address" girin. '[class='form-control'][id='permanentAddress']
+
+    6) Submit butonuna tıklayınız. [type='button'][id='submit']
+
+    7) Full Name'in, "Automation"ı içinde bulundurduğunu doğrulayın. [id='name'][class='mb-1']
+
+    8) Email'in, "Testing"ı içinde bulundurduğunu doğrulayın. [id='email'][class='mb-1']
+
+ */
